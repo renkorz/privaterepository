@@ -1,2 +1,0 @@
-oña = "peo"
-print(oña)

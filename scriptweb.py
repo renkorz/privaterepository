@@ -1,0 +1,2 @@
+oña = "peo"
+print(oña)
